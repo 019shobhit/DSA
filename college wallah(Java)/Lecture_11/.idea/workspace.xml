@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89b255f0-f394-49b3-b3ad-8235361dc19b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../anuj bhaiya/OOPS_1/src/ClassesAndObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anuj bhaiya/OOPS_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../anuj bhaiya/OOPS_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10/Lecture_10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10/Lecture_10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10/out/production/Lecture_10/BinaryToDecimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10/out/production/Lecture_10/BinaryToDecimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10/out/production/Lecture_10/DecimalToBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10/out/production/Lecture_10/DecimalToBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10/out/production/Lecture_10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10/out/production/Lecture_10/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_10/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_10/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture_11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture_11/data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture_11/person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lecture_11/student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/Lecture_12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/out/production/Lecture_12/Algebra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/out/production/Lecture_12/App3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/out/production/Lecture_12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/out/production/Lecture_12/OutsidePWSkills.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/out/production/Lecture_12/library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/out/production/Lecture_12/pw/skills/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/out/production/Lecture_12/pw/skills/App2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/src/OutsidePWSkills.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/src/library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_12/src/pw/skills/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13/Lecture_13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13/out/production/Lecture_13/Algebra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13/out/production/Lecture_13/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_13/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14/Lecture_14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14/out/production/Lecture_14/ArrayExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14/out/production/Lecture_14/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_14/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15/Lecture_15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15/out/production/Lecture_15/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15/out/production/Lecture_15/Questions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_15/src/Questions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16/Lecture_16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16/out/production/Lecture_16/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16/out/production/Lecture_16/Questions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_16/src/Questions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17/Lecture_17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17/out/production/Lecture_17/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17/out/production/Lecture_17/presentQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17/out/production/Lecture_17/questions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17/src/presentQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_17/src/questions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18/Lecture_18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18/out/production/Lecture_18/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18/out/production/Lecture_18/sortArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_18/src/sortArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/Lecture_19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/out/production/Lecture_19/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/out/production/Lecture_19/prefixSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/out/production/Lecture_19/rangeQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/out/production/Lecture_19/suffixSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/src/prefixSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/src/rangeQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_19/src/suffixSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/Lecture_20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/out/production/Lecture_20/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/out/production/Lecture_20/addMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/out/production/Lecture_20/multidimentionalArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/out/production/Lecture_20/multiplymatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/out/production/Lecture_20/reverseEachRowOfMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/src/addMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/src/multidimentionalArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/src/multiplymatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_20/src/reverseEachRowOfMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_21/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_21/Lecture_21.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_21/out/production/Lecture_21/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_21/out/production/Lecture_21/pascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_21/out/production/Lecture_21/transposeMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_21/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_21/src/pascalTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_21/src/transposeMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/Lecture_22.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/out/production/Lecture_22/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/out/production/Lecture_22/generateSpiral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/out/production/Lecture_22/printSpiral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/out/production/Lecture_22/spiralPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/src/generateSpiral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/src/printSpiral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_22/src/spiralPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_23/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_23/Lecture_23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_23/out/production/Lecture_23/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_23/out/production/Lecture_23/rectangleSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_23/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_23/src/rectangleSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/Lecture_24.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/out/production/Lecture_24/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/out/production/Lecture_24/arrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/out/production/Lecture_24/reverseArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/out/production/Lecture_24/stringArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/src/arrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/src/reverseArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_24/src/stringArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_25/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_25/Lecture_25.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_25/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_26/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_26/Lecture_26.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_26/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_27/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_27/Lecture_27.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_27/out/production/Lecture_27/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_27/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_28/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_28/Lecture_28.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_28/out/production/Lecture_28/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_28/out/production/Lecture_28/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_28/out/production/Lecture_28/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_28/src/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_28/src/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_28/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/Lecture_29.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/out/production/Lecture_29/COuntOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/out/production/Lecture_29/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/out/production/Lecture_29/Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/out/production/Lecture_29/Power2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/out/production/Lecture_29/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/src/COuntOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/src/Power.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/src/Power2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_29/src/SumOfDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3/out/production/Lecture_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3/out/production/Lecture_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3/out/production/Lecture_3/PACKAGE_NAME/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_3/src/datatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_3/src/datatype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_30/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_30/Lecture_30.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_30/out/production/Lecture_30/AlternateSignSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_30/out/production/Lecture_30/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_30/out/production/Lecture_30/Multiple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_30/src/AlternateSignSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_30/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_30/src/Multiple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/Lecture_31.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/out/production/Lecture_31/GCDalternatemethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/out/production/Lecture_31/GCDbruteForceAproach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/out/production/Lecture_31/GCDrecursiveAproach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/out/production/Lecture_31/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/src/GCDalternatemethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/src/GCDbruteForceAproach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/src/GCDrecursiveAproach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_31/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/Lecture_32.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/out/production/Lecture_32/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/out/production/Lecture_32/MaxElementInArrayRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/out/production/Lecture_32/PrintArrayReccursively.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/out/production/Lecture_32/SumArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/src/MaxElementInArrayRecursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/src/PrintArrayReccursively.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_32/src/SumArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/Lecture_33.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/FindAllIndices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/SearchAllIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/SearchIndexArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/isSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/search0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/searchAllIdx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/searchAllidxArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/searchLastidx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/out/production/Lecture_33/searchidx0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/FindAllIndices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/SearchAllIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/SearchIndexArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/isSorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/search0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/searchAllIdx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/searchAllidxArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/searchLastidx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_33/src/searchidx0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/Lecture_34.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/src/checkPalindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/src/removeA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/src/removeOccurence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_34/src/reverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/Lecture_35.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/src/printSSQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_35/src/returnSSQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_37/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_37/Lecture_37.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_37/out/production/Lecture_37/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_37/out/production/Lecture_37/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_37/src/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_37/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_38/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_38/Lecture_38.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_38/out/production/Lecture_38/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_38/out/production/Lecture_38/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_38/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_38/src/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_39/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_39/Lecture_39.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_39/out/production/Lecture_39/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_39/out/production/Lecture_39/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_39/src/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_39/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4/out/production/Lecture_4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4/out/production/Lecture_4/readcharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4/out/production/Lecture_4/simpleintrest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4/out/production/Lecture_4/sumoftwonumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4/out/production/Lecture_4/takinginput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_40/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_40/Lecture_40.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_40/out/production/Lecture_40/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_40/out/production/Lecture_40/ShiftingZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_40/out/production/Lecture_40/SortString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_40/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_40/src/ShiftingZeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_40/src/SortString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_41/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_41/Lecture_41.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_41/out/production/Lecture_41/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_41/out/production/Lecture_41/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_41/out/production/Lecture_41/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_41/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_41/src/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5/out/production/Lecture_5/ArithmeticOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5/out/production/Lecture_5/AssignmentOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5/out/production/Lecture_5/LogicalOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5/out/production/Lecture_5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5/out/production/Lecture_5/RelationalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5/out/production/Lecture_5/UnaryOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_50/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_50/out/production/Lecture_50/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_50/out/production/Lecture_50/OOPSinJAVA/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_50/out/production/Lecture_50/OOPSinJAVA/StudentClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/out/production/Lecture_6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/out/production/Lecture_6/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/out/production/Lecture_6/Q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/out/production/Lecture_6/Q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/out/production/Lecture_6/agegroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/out/production/Lecture_6/oddeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/out/production/Lecture_6/ternaryoperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/DoWhileLoopSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/ForloopSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/NaturalNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/ReverseCounting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/Skippmulti3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/StreamOfNums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/WhileLoopSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/out/production/Lecture_7/multipleof5and7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_7/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_7/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/out/production/Lecture_8/CountDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/out/production/Lecture_8/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/out/production/Lecture_8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/out/production/Lecture_8/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/out/production/Lecture_8/SpecialSeriesSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/out/production/Lecture_8/SumDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/out/production/Lecture_8/power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_8/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Number_Pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Number_pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Number_pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Numerical_Rectangular_pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Numerical_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Pyramid_Border_Numeric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Pyramid_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Rectangular_pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Rectangular_pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Triangular_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/out/production/Lecture_9/Triangular_Pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_9/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_9/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2jUwzHRHg9HxivnMCn5PTJBDo9v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "G:/Java/college wallah/Lecture_11/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89b255f0-f394-49b3-b3ad-8235361dc19b" name="Changes" comment="" />
+      <created>1721455223632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721455223632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
